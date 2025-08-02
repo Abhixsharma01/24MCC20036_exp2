@@ -1,2 +1,6 @@
 Initial content
+HEAD
 this is a file by UIC 
+
+this is a file of cloud computing
+UIC-CCD
